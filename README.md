@@ -9,12 +9,12 @@ It was created on the basis of [the UserUtils library.](https://github.com/Sv443
 ## Stack
 - [TypeScript](https://www.typescriptlang.org/) with [tslib](https://npmjs.com/package/tslib) import helper
 - Building with [tsup](https://github.com/egoist/tsup) and [esbuild](https://github.com/evanw/esbuild)
-- CI via [GitHub Actions](https://github.com/features/actions)
 - Linting with [ESLint](https://eslint.org/)
+- CI and CD via [GitHub Actions](https://github.com/features/actions)
+- [Changesets](https://github.com/changesets/changesets) for versioning, changelogs, releases and continuous deployment
 - Testing with [Vitest](https://vitest.dev/)
 - Coverage by [v8](https://v8.dev/)
-- [pnpm](https://pnpm.io/) package manager
-- [Changesets](https://github.com/changesets/changesets) for versioning and changelogs
+- [pnpm](https://pnpm.io/) as the package manager
 
 ## Getting Started
 1. [Create a repo based on this template]()
