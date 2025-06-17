@@ -17,7 +17,7 @@ It was created on the basis of [the UserUtils library.](https://github.com/Sv443
 - [pnpm](https://pnpm.io/) as the package manager
 
 ## Getting Started
-1. [Create a repo based on this template]()
+1. [Create a repo based on this template](https://github.com/new?template_name=TS-Lib-Template&template_owner=Sv443)
 2. Go to settings > secrets and add `NPM_TOKEN` with a token that has access to publish packages
 3. Make sure to sign in with GitHub on https://jsr.io/, so that the workflow has rights to publish
 4. Clone the new repo
